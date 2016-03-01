@@ -1,6 +1,5 @@
 <?php 
 include 'header.php';
-echo 'loico';
 ?>
 <!-- Textos -->
 	<div class="caixa">
